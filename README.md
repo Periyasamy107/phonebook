@@ -1,10 +1,18 @@
 # <ins> Phonebook Data Management  </ins>
 ## <ins> Summary of the project : </ins>
-The storage and retrieval of Phonebook contacts is the primary emphasis of this project. We are able to do CRUD operations on json/csv files by using those files. 
+The Phonebook Data Management project is all about organizing contact information effortlessly. It seamlessly handles data from JSON/CSV files and MySQL databases, allowing users to add, update, or delete contacts with ease. With its reliable backend, users have full control over their phonebook data, making contact management a breeze.
 <br>
-At first, we obtain the files via user input and store them in a MySQL database. From there, we can retrieve the data from the database and make any necessary modifications, inserts, or deletions. 
+In essence, this project simplifies contact handling, offering a seamless experience for managing contacts. Its robust backend ensures data security and efficiency, making it an essential tool for modern contact management needs.
+<br>
+<br>
+- Effortless Contact Management
+- Flexible Data Handling
+- Simple CRUD Operations
+- Reliable Backend Infrastructure
+- Streamlined User Experience
 
-
+<br>
+<br>
 ## <ins> Here are the few screenshot for this project overview : </ins>
 ### <ins> This is the home page : </ins>
 ![Home Page](https://github.com/Periyasamy107/phonebook/assets/118701561/da92a234-9009-41f0-8876-bc6983ca2688)
