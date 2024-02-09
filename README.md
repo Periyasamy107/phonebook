@@ -10,9 +10,9 @@ In essence, this project simplifies contact handling, offering a seamless experi
 - Simple CRUD Operations
 - Reliable Backend Infrastructure
 - Streamlined User Experience
+<br>
+<br>
 
-<br>
-<br>
 ## <ins> Here are the few screenshot for this project overview : </ins>
 ### <ins> This is the home page : </ins>
 ![Home Page](https://github.com/Periyasamy107/phonebook/assets/118701561/da92a234-9009-41f0-8876-bc6983ca2688)
