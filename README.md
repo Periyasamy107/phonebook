@@ -1,4 +1,4 @@
-![Dataset Preview](https://github.com/Periyasamy107/phonebook/assets/118701561/5344d882-fb60-4c80-9e98-8161436c32fa)# <ins> Phonebook Data Management  </ins>
+# <ins> Phonebook Data Management  </ins>
 ## <ins> Summary of the project : </ins>
 The storage and retrieval of Phonebook contacts is the primary emphasis of this project. We are able to do CRUD operations on json/csv files by using those files. 
 <br>
