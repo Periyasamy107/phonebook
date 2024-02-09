@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 import mysql.connector
-from mysql.connector import errors
 
 
 # Database configuration
