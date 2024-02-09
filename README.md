@@ -2,16 +2,15 @@
 ## <ins> Summary of the project : </ins>
 The Phonebook Data Management project is all about organizing contact information effortlessly. It seamlessly handles data from JSON/CSV files and MySQL databases, allowing users to add, update, or delete contacts with ease. With its reliable backend, users have full control over their phonebook data, making contact management a breeze.
 <br>
+<br>
 In essence, this project simplifies contact handling, offering a seamless experience for managing contacts. Its robust backend ensures data security and efficiency, making it an essential tool for modern contact management needs.
 <br>
 <br>
-- Effortless Contact Management
-- Flexible Data Handling
-- Simple CRUD Operations
-- Reliable Backend Infrastructure
-- Streamlined User Experience
-<br>
-<br>
+- **Effortless Contact Management** **:** Seamlessly organize contact information without hassle.
+- **Flexible Data Handling** **:** Easily import data from JSON/CSV files and ease to store it into MySQL databases.
+- **Simple CRUD Operations** **:** Add, update, or delete contacts with ease.
+- **Reliable Backend Infrastructure** **:** Ensure data security and efficiency with a robust backend.
+
 
 ## <ins> Here are the few screenshot for this project overview : </ins>
 ### <ins> This is the home page : </ins>
