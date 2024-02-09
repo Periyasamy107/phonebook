@@ -5,7 +5,7 @@ The Phonebook Data Management project is all about organizing contact informatio
 <br>
 In essence, this project simplifies contact handling, offering a seamless experience for managing contacts. Its robust backend ensures data security and efficiency, making it an essential tool for modern contact management needs.
 <br>
-<br>
+
 - **Effortless Contact Management** **:** Seamlessly organize contact information without hassle.
 - **Flexible Data Handling** **:** Easily import data from JSON/CSV files and ease to store it into MySQL databases.
 - **Simple CRUD Operations** **:** Add, update, or delete contacts with ease.
