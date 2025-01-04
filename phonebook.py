@@ -1,24 +1,28 @@
 import pandas as pd
 import streamlit as st
-import mysql.connector
+import pymysql
 
 
 # Database configuration
 db_config = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': 'Samy@1007',
-    'database': 'phonebook',
+    
 }
 
 # Streamlit app
 def main():
     st.title("Phone Book CRUD Operations")
 
+    print('connecting to database...')
     # Connect to MySQL database
-    connection = mysql.connector.connect(**db_config)
+    connection = pymysql.connect(
+        host= 'localhost',
+        user= 'root',
+        port= 3306,
+        password= '123456',
+        database= 'phonebook',
+    )
     cursor = connection.cursor()
-
+    print('database connected successfully')
     # Create phone_records table if not exists
     create_table_query = '''
         CREATE TABLE IF NOT EXISTS phone_records (
